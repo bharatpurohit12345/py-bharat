@@ -23,7 +23,7 @@ def Welcome():
 
 @app.route('/myapp')
 def WelcomeToMyapp():
-    return 'Welcome again to my app running on Bluemix!'
+    return 'Bharat this time from github again to my app running on Bluemix!'
 
 @app.route('/api/people')
 def GetPeople():
